@@ -123,6 +123,26 @@ namespace WindowsFormsHomeInventorySystem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _538_photo_3161 {
+            get {
+                object obj = ResourceManager.GetObject("538_photo_3161", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _538_photo_31611 {
+            get {
+                object obj = ResourceManager.GetObject("538_photo_31611", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Actions_dialog_close_icon48 {
             get {
                 object obj = ResourceManager.GetObject("Actions-dialog-close-icon48", resourceCulture);
@@ -246,6 +266,16 @@ namespace WindowsFormsHomeInventorySystem.Properties {
         internal static System.Drawing.Bitmap House_icon_48 {
             get {
                 object obj = ResourceManager.GetObject("House-icon 48", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mississippi_Web_Design_Digital_Marketing {
+            get {
+                object obj = ResourceManager.GetObject("Mississippi-Web-Design-Digital-Marketing", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

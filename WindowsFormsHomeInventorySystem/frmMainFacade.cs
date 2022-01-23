@@ -12,12 +12,14 @@ namespace WindowsFormsHomeInventorySystem
 {
     public partial class frmMainFacade : Form
     {
-
+        
         Form currentFrm;
 
         public frmMainFacade()
         {
             InitializeComponent();
+            //label1.Text = text;
+            
         }
 
         private void frmMainFacade_Load(object sender, EventArgs e)
@@ -93,6 +95,16 @@ namespace WindowsFormsHomeInventorySystem
             panelshow1.Controls.Add(currentFrm);
 
             currentFrm.Show();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

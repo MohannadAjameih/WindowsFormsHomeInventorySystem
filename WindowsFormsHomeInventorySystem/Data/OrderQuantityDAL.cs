@@ -18,8 +18,8 @@ namespace WindowsFormsHomeInventorySystem.Data
 
         public static void CreateOrder(OrderQuantity orderQuantity)
         {
-            string commandText = String.Format("Insert into OrderQuantity(Quantity,ItemName)" +
-            "Values('{0}','{1}')", orderQuantity.Quantity, orderQuantity.ItemName);
+            string commandText = String.Format("Insert into OrderQuantity(ItemName,Quantity,Unit)" +
+            "Values('{0}','{1}','{2}')", orderQuantity.ItemName,orderQuantity.Quantity,orderQuantity.Unit);
 
             OleDbCommand command = new OleDbCommand(commandText, connection);
 

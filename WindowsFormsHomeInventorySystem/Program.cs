@@ -16,7 +16,7 @@ namespace WindowsFormsHomeInventorySystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMainFacade());
+            Application.Run(new frmlogin());
         }
     }
 }

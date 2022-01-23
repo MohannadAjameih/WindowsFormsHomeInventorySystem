@@ -57,7 +57,7 @@
             this.txtQuantity.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.txtQuantity.Name = "txtQuantity";
             this.txtQuantity.Size = new System.Drawing.Size(133, 26);
-            this.txtQuantity.TabIndex = 3;
+            this.txtQuantity.TabIndex = 2;
             this.txtQuantity.TextChanged += new System.EventHandler(this.txtQuantity_TextChanged);
             // 
             // label1
@@ -88,7 +88,7 @@
             this.txtAddQuantity.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.txtAddQuantity.Name = "txtAddQuantity";
             this.txtAddQuantity.Size = new System.Drawing.Size(184, 26);
-            this.txtAddQuantity.TabIndex = 6;
+            this.txtAddQuantity.TabIndex = 3;
             this.txtAddQuantity.TextChanged += new System.EventHandler(this.txtAddQuantity_TextChanged);
             // 
             // Add
@@ -120,7 +120,7 @@
             this.txtUnit.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.txtUnit.Name = "txtUnit";
             this.txtUnit.Size = new System.Drawing.Size(133, 26);
-            this.txtUnit.TabIndex = 9;
+            this.txtUnit.TabIndex = 1;
             // 
             // btnAdd
             // 
@@ -137,7 +137,7 @@
             this.btnAdd.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(148, 138);
-            this.btnAdd.TabIndex = 1;
+            this.btnAdd.TabIndex = 4;
             this.btnAdd.Text = "Add";
             this.btnAdd.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnAdd.UseVisualStyleBackColor = false;

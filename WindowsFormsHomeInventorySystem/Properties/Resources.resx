@@ -139,6 +139,9 @@
   <data name="House-icon 48" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\House-icon 48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="avatar_people_person_profile_user_woman_icon_123356" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar_people_person_profile_user_woman_icon_123356.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Add-item-icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Add-item-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -150,6 +153,12 @@
   </data>
   <data name="Checklist-icon 48" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Checklist-icon 48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mississippi-Web-Design-Digital-Marketing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mississippi-Web-Design-Digital-Marketing.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="29_104867" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\29_104867.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="businessapplication_database_loaddatabase_db_negocios_aplicacion_2318" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\businessapplication_database_loaddatabase_db_negocios_aplicacion_2318.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -169,10 +178,10 @@
   <data name="1486485588-add-create-new-math-sign-cross-plus_811861" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1486485588-add-create-new-math-sign-cross-plus_811861.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="29_104867" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\29_104867.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="538_photo_3161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\538_photo_3161.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="avatar_people_person_profile_user_woman_icon_123356" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\avatar_people_person_profile_user_woman_icon_123356.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="538_photo_31611" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\538_photo_31611.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

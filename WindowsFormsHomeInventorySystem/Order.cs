@@ -91,7 +91,6 @@ namespace WindowsFormsHomeInventorySystem
         {
 
             
-            
             int test = 0;
             bool parsable1 = int.TryParse(txtAddQuantity.Text, out test);
 
@@ -117,9 +116,10 @@ namespace WindowsFormsHomeInventorySystem
             OrderQuantity product1 = new OrderQuantity();
             product1.ItemName = comItems.Text;
             product1.Quantity = txtAddQuantity.Text;
+            product1.Unit = txtUnit.Text;
             OrderQuantityDAL.CreateOrder(product1);
             ClearForm();
-
+            
 
         }
 
@@ -150,10 +150,6 @@ namespace WindowsFormsHomeInventorySystem
         {
           
         }
-        //private void RefreshStudentGridview()
-        //{
-        //    dataGridViewOrder.DataSource = OrderQuantityDAL.GetAllCommand();
-
-        //}
+       
     }
 }

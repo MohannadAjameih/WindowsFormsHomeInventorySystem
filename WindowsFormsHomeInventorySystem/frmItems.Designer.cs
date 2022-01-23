@@ -47,7 +47,7 @@
             this.txtItemName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtItemName.Name = "txtItemName";
             this.txtItemName.Size = new System.Drawing.Size(148, 26);
-            this.txtItemName.TabIndex = 4;
+            this.txtItemName.TabIndex = 1;
             this.txtItemName.TextChanged += new System.EventHandler(this.txtItemName_TextChanged);
             // 
             // txtQuantity
@@ -56,7 +56,7 @@
             this.txtQuantity.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtQuantity.Name = "txtQuantity";
             this.txtQuantity.Size = new System.Drawing.Size(148, 26);
-            this.txtQuantity.TabIndex = 6;
+            this.txtQuantity.TabIndex = 3;
             this.txtQuantity.TextChanged += new System.EventHandler(this.txtQuantity_TextChanged);
             // 
             // comUnit
@@ -69,11 +69,11 @@
             "Liter(l)",
             "Milliliter(Ml)",
             "Unit(pcs)"});
-            this.comUnit.Location = new System.Drawing.Point(133, 93);
+            this.comUnit.Location = new System.Drawing.Point(133, 92);
             this.comUnit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comUnit.Name = "comUnit";
             this.comUnit.Size = new System.Drawing.Size(184, 28);
-            this.comUnit.TabIndex = 7;
+            this.comUnit.TabIndex = 2;
             // 
             // label1
             // 
@@ -89,7 +89,7 @@
             // Unit
             // 
             this.Unit.AutoSize = true;
-            this.Unit.Location = new System.Drawing.Point(87, 93);
+            this.Unit.Location = new System.Drawing.Point(87, 92);
             this.Unit.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Unit.Name = "Unit";
             this.Unit.Size = new System.Drawing.Size(38, 20);
@@ -126,11 +126,11 @@
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDelete.Image = global::WindowsFormsHomeInventorySystem.Properties.Resources._1486504830_delete_dustbin_empty_recycle_recycling_remove_trash_81361__1_;
             this.btnDelete.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDelete.Location = new System.Drawing.Point(725, 113);
-            this.btnDelete.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDelete.Location = new System.Drawing.Point(724, 112);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(144, 58);
-            this.btnDelete.TabIndex = 2;
+            this.btnDelete.TabIndex = 6;
             this.btnDelete.Text = "Delete";
             this.btnDelete.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnDelete.UseVisualStyleBackColor = false;
@@ -143,11 +143,11 @@
             this.btnSave.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSave.Image = global::WindowsFormsHomeInventorySystem.Properties.Resources._1486485555_188backup_disk_data_data_storage_floppy_save_81149__1_;
             this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSave.Location = new System.Drawing.Point(573, 113);
-            this.btnSave.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSave.Location = new System.Drawing.Point(573, 112);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(144, 59);
-            this.btnSave.TabIndex = 1;
+            this.btnSave.TabIndex = 5;
             this.btnSave.Text = "Save";
             this.btnSave.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnSave.UseVisualStyleBackColor = false;
@@ -160,11 +160,11 @@
             this.btnNew.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNew.Image = global::WindowsFormsHomeInventorySystem.Properties.Resources._1486485588_add_create_new_math_sign_cross_plus_811861;
             this.btnNew.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNew.Location = new System.Drawing.Point(421, 113);
-            this.btnNew.Margin = new System.Windows.Forms.Padding(4);
+            this.btnNew.Location = new System.Drawing.Point(421, 112);
+            this.btnNew.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnNew.Name = "btnNew";
             this.btnNew.Size = new System.Drawing.Size(144, 59);
-            this.btnNew.TabIndex = 0;
+            this.btnNew.TabIndex = 4;
             this.btnNew.Text = "New";
             this.btnNew.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnNew.UseVisualStyleBackColor = false;
